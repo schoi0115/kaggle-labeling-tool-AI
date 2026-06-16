@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output (React)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Env files (혹시 나중에 추가될 경우 대비)
+.env
+.env.local
+.env.development
+.env.production
+
+# Data files (Sentiment140 전체 올릴 필요 없음)
+data.json
+data/
