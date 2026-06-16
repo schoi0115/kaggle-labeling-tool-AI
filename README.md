@@ -62,5 +62,6 @@ node index.js
 최근 라벨링한 문장을 확인하고, 잘못된 라벨을 되돌릴 수 있습니다.
 
 ![라벨링 화면](./project/screenshots/main.png)
+![라벨링 화면](C:\Users\schoi\cc-server\labeling-tool\project\screenshots\main.png)
 
 ---
